@@ -12,6 +12,7 @@
 
 ## 🛠️ Tech Stack
 
+
 - **Python**
 - **Streamlit** (for UI)
 - **FAISS** (for efficient similarity search)
@@ -24,7 +25,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/rishabhpandey106/PharmaAI.git
+git clone  https://github.com/ayush11jha/Pharma-AI.git
 cd PharmaAI
 ```
 
@@ -76,7 +77,5 @@ If you'd like to contribute:
 2. Create a new branch (`feature-branch`).
 3. Commit your changes and open a PR.
 
-### 📩 Contact
 
-For queries, reach out to **Rishabh Kumar Pandey** via [GitHub](https://github.com/rishabhpandey106).
 
